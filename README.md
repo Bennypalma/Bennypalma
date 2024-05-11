@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Bennypalma
 - 👀 I’m interested in Coding and Photography
-- 🌱 I’m currently trying to learn front end 
+- 🌱 I’m currently learnin Java from mooc.fi program
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 You can reach me through instagram @bpalma_photography
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I´m from Portugal
 
 <!---
 Bennypalma/Bennypalma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
